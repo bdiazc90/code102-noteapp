@@ -1,0 +1,22 @@
+body {
+    background-color: #eee;
+    font-family: 'Courier New', Courier, monospace;
+}
+main {
+    width: 300px;
+    margin: 30px auto;
+    padding: 10px;
+    text-align: center;
+    border: 1px dashed #ccc;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #ccc;
+}
+.btn {
+    padding: 8px 20px;
+    background-color: #ccc;
+    text-decoration: none;
+    font-weight: 800;
+    margin-bottom: 10px;
+    display: inline-block;
+}
